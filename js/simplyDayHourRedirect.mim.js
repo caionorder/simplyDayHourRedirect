@@ -1,0 +1,1 @@
+function simplyDayHourRedirect(e,t,n){var r=new Date;var i=r.getDay();var s=r.getHours();if(i==e&&s==t){window.location.replace(n)}}
